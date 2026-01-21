@@ -1,0 +1,11 @@
+*.bin
+*.zip
+*.img
+*.chk
+*.html
+*.mkv
+*.mp4
+*.docx
+__pycache__
+firmwares
+squashfs-root
