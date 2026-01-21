@@ -6,6 +6,7 @@
 *.mkv
 *.mp4
 *.docx
+*.rar
 __pycache__
 firmwares
 squashfs-root
